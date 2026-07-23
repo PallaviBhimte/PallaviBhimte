@@ -10,6 +10,7 @@ Hi there 👋 I'm Pallavi.
 
 🤝 Always happy to collaborate on interesting data and AI projects
 
+
 📫 How to reach me?
 
 🌐 Portfolio: https://www.pallavibhimte.com
