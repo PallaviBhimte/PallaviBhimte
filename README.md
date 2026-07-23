@@ -5,7 +5,9 @@ Hi there 👋 I'm Pallavi.
 - Most of the projects here are things I've built while learning, experimenting, or solving real-world problems.
 
 🚀 Working with Python, SQL, AWS, Databricks & GenAI
+
 🌱 Currently exploring Advanced RAG and AI Agents
+
 🤝 Always happy to collaborate on interesting data and AI projects
 
 📫 How to reach me?
